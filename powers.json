@@ -266,7 +266,7 @@
   "Flame Barrier": {
     "NAME": "Barrera de Fuego",
     "DESCRIPTIONS": [
-      "Cuando recibas daño de un #yAtaque, inflige #b",
+      "Al recibir daño de un #yAtaque, inflige #b",
       " de daño de vuelta."
     ]
   },
